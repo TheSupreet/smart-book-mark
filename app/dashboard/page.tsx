@@ -96,6 +96,7 @@ export default function Dashboard() {
     }
 
     setAdding(false);
+    await fetchBookmarks(session.user.id);
   };
 
   const deleteBookmark = async (id: string) => {

@@ -4,7 +4,7 @@ A full-stack bookmark management app built using Next.js and Supabase.
 
 ## 🚀 Live Demo
 
-https://your-project-name.vercel.app
+https://smart-book-mark-six.vercel.app/
 
 ## 🛠 Tech Stack
 
